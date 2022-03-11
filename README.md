@@ -1,4 +1,4 @@
-* cloned from my personal github*
+*cloned from my personal github*
 
 # Edgy Lyrics Bot
 
